@@ -27,7 +27,7 @@ import (
 	"log"
 	"os"
 
-	"github.com/TelenLiu/go-zip"
+	zip "github.com/TelenLiu/go-zip"
 )
 
 func main() {
@@ -121,7 +121,7 @@ import (
 	"io/ioutil"
 	"log"
 
-	"github.com/TelenLiu/go-zip"
+	zip "github.com/TelenLiu/go-zip"
 )
 
 func main() {
